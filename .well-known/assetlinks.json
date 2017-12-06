@@ -1,0 +1,14 @@
+[
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"Carrier.Droid",
+         "package_name":"com.hhl.android.carrier",
+         "sha256_cert_fingerprints":[
+            "89:AF:FB:0D:F7:95:0C:6F:61:EE:C3:94:14:C6:1C:CB:AF:B5:72:14:78:C8:F3:2E:7B:27:31:D2:3C:36:70:87"
+         ]
+      }
+   }
+]
